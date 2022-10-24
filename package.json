@@ -1,0 +1,31 @@
+{
+  "name": "waleedcode",
+  "displayName": "waleedcode",
+  "description": "",
+  "version": "1.0.6",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "publisher": "waleedishfaq",
+  "author": {
+    "name": "waleedishfaq"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "waleedcode"
+  ],
+  "icon": "coding.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "waleedcode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/waleedcode-color-theme.json"
+      }
+    ]
+  }
+}
