@@ -1,6 +1,7 @@
 # waleedcode 
 
-This is a variation of waleedcode dark theme with bright colours and dark background.
+A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace.
+This is a variation of waleedcode dark theme with bright colours and purple background.
 
 <a href="https://www.iamwaqas.com" target="_blank" rel="noreferrer noopener nofollow"><img src="short.png" alt="short"></a>
 
