@@ -1,30 +1,44 @@
 {
-  "name": "waleedcode",
-  "displayName": "waleedcode",
-  "description": "",
-  "version": "1.0.9",
+  "name": "purple-darktheme",
+  "displayName": "Purple Dark Theme",
+  "description": "A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.72.0"
   },
-  "publisher": "waleedishfaq",
+  "publisher": "waleedcodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waleedcodes/waleedcode-theme"
+  },
   "author": {
-    "name": "waleedishfaq"
+    "name": "Waleed Codes"
   },
   "license": "MIT",
   "homepage": "",
   "keywords": [
-    "waleedcode"
+    "theme",
+    "dark theme",
+    "purple theme",
+    "purple dark theme",
+    "Purple Dark Theme",
+    "waleedcodes",
+    "waleed codes",
+    "dark",
+    "waleedcodes theme",
+    "waleed codes dark theme",
+    "waleedcode theme"
   ],
-  "icon": "coding.png",
+  "icon": "Theme-logo.jpg",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "waleedcode",
+        "label": "waleedcodes",
         "uiTheme": "vs-dark",
-        "path": "./themes/waleedcode-color-theme.json"
+        "path": "./themes/waleedcodes-color-theme.json"
       }
     ]
   }
