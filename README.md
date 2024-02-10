@@ -2,7 +2,13 @@
 
 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace.
 
-<a href="http://waleedcodes.com" target="_blank" rel="noreferrer noopener nofollow"><img src="./short.png" alt="short"></a>
+## Installation
+
+<img src="./short1.png" alt="short">
+
+## Preview Output
+
+<img src="./short2.png" alt="short">
 
 <h1 style="font-weigth:600; font-size:2rem; ">Follow Me</h1>
 
