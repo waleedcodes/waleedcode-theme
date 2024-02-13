@@ -19,4 +19,4 @@ A professional theme suite with hand-picked & bold shades of purple for your VS 
 
 <br>
 
-**Enjoy and use the theme!**
+**Live Preview** : https://marketplace.visualstudio.com/items?itemName=waleedcodes.purple-darktheme
