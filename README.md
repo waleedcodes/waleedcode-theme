@@ -4,22 +4,6 @@ A Professional Theme suite with hand-picked & bold shades of purple for your VS 
 
 <img src="./images/main.png" alt="">
 
-## Installation
-
-> open Vs Code Editor
-
-<br>
-<img src="./images/readme2.png" alt="">
-<img src="./images/readme3.png" alt="">
-<img src="./images/readme4.png" alt="">
-<img src="./images/readme5.png" alt="">
-<img src="./images/readme6.png" alt="">
-
-## Preview Output
-
-<img src="./short2.png" alt="short">
-
-<br>
 
 ## Contributors :
 
