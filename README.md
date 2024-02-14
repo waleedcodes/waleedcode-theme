@@ -5,6 +5,7 @@ A professional theme suite with hand-picked & bold shades of purple for your VS 
 ## Installation
 
 > open Vs Code Editor
+
 <br>
 <img src="./images/readme2.png" alt="">
 <img src="./images/readme3.png" alt="">
@@ -17,5 +18,9 @@ A professional theme suite with hand-picked & bold shades of purple for your VS 
 <img src="./short2.png" alt="short">
 
 <br>
+
+## Contributors :
+
+1 : Waleed Ishfaq
 
 **Live Preview** : https://marketplace.visualstudio.com/items?itemName=waleedcodes.purple-darktheme
