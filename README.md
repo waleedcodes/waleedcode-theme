@@ -13,6 +13,7 @@
 - But don't just take our word for it. Download the Purple Dark Theme today and dive into a world of creativity, focus, and productivity. Unleash the power of code, bathed in the captivating glow of purple.
 
 <img src="./images/main.png" alt="">
+<br>
 
 **Live Preview** : https://marketplace.visualstudio.com/items?itemName=waleedcodes.purple-darktheme
 
