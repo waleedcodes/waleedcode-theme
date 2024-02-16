@@ -22,4 +22,4 @@
 - Waleed Ishfaq
 
 # Youtube Channel Link :
-rebrand.ly/fjifvx1
+[rebrand.ly/fjifvx1](https://rebrand.ly/fjifvx1)https://rebrand.ly/fjifvx1
