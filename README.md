@@ -21,5 +21,4 @@
 
 - Waleed Ishfaq
 
-# Youtube Channel Link :
-https://www.youtube.com/@waleedcodes
+# Youtube Channel Link : https://www.youtube.com/@waleedcodes
