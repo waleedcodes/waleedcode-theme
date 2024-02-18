@@ -1,4 +1,4 @@
-# Purple Dark Theme for VS Code: Immerse Yourself in Creativity 🚀
+# Purple Dark Theme for VS Code: Immerse Yourself in Creativity 💜 
 
 - **Elegant Aesthetic:** Immerse yourself in a sophisticated coding environment adorned with deep shades of purple, exuding an aura of refinement and elegance.
 
