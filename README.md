@@ -18,7 +18,7 @@ Welcome to the Purple Dark Theme for Visual Studio Code – where sophistication
 
 # Screenshots:
 
-<img src="./images/img1.png" alt="">
+<img src="./images/img2.png" alt="">
 
 # Live Preview:
 
