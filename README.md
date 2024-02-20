@@ -22,7 +22,7 @@ Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace
 
 # Javascript Preview Screenshot:
 
-<img src="./images/img2.png" alt="">
+<img src="./images/img1.png" alt="">
 
 # HTML Preview Screenshot:
 
