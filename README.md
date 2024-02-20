@@ -30,4 +30,4 @@ Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace
 
 # Stay Connected:
 
-Follow us on <a href="https://www.youtube.com/@waleedcodes">YouTube</a> for updates, tutorials, and more!
+Follow us on <a href="https://www.youtube.com/@waleedcodes" target="_blank">YouTube</a> for updates, tutorials, and more!
