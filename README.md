@@ -16,13 +16,11 @@ Welcome to the Purple Dark Theme for Visual Studio Code – where sophistication
 
 - **Community Support**: Join a vibrant community of developers who appreciate the elegance and functionality of the Purple Dark Theme. Share tips, tricks, and customizations to enhance your coding experience even further.
 
-# Screenshots:
-
-<img src="./images/img2.png" alt="">
-
 # Live Preview:
 
 Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace: Live Preview
+
+# In Javascript Preview:
 
 # Contributors:🧔
 
