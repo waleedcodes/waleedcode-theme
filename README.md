@@ -20,6 +20,10 @@ Welcome to the Purple Dark Theme for Visual Studio Code – where sophistication
 
 Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace: Live Preview
 
+# In Javascript Preview:
+
+<img src="./images/img2.png" alt="">
+
 # Contributors:🧔
 
 - Waleed Ishfaq
