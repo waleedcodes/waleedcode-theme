@@ -30,7 +30,7 @@ Experience the Purple Dark Theme in action on the Visual Studio Code Marketplace
 
 # Contributors:🧔
 
-- Waleed Ishfaq
+- Waleed Codes
 
 # Download For Free :
 
