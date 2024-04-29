@@ -32,8 +32,7 @@
   "icon": "Theme-logo.jpg",
   "categories": [
     "Themes",
-    "Extension Packs",
-    "color-theme"
+    "Extension Packs"
   ],
   "contributes": {
     "themes": [
