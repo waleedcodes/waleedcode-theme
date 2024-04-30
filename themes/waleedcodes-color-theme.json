@@ -26,10 +26,6 @@
     "titleBar.activeForeground": "#ffffff",
     "terminal.selectionBackground": "#c3c3c3",
     "terminal.foreground": "#ffffff",
-    "terminal.background": "#0C0A31",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBlue": "#82AAFF",
-    "terminal.ansiBrightBlack": "#000000",
   },
   "tokenColors": [
     {

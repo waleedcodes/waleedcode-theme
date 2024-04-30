@@ -2,7 +2,7 @@
   "name": "purple-darktheme",
   "displayName": "Purple Dark Theme For VS CODE",
   "description": "A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace.",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
